@@ -1,3 +1,1 @@
-(function () {
-  alert()
-})();
+<script> alert() </script>
